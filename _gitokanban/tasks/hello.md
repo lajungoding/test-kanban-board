@@ -1,11 +1,11 @@
 ---
 id: hello
 title: Hello
-status: in-progress
+status: todo
 epic: p1
-assignee: lajungoding
+assignee: ''
 order: 10000
 createdAt: '2026-05-08T06:19:18.146Z'
-updatedAt: '2026-05-08T06:19:47.914Z'
+updatedAt: '2026-05-08T06:19:49.969Z'
 ---
 World
