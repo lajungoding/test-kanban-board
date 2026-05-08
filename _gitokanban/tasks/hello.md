@@ -1,10 +1,11 @@
 ---
 id: hello
 title: Hello
-status: backlog
+status: in-progress
 epic: p1
+assignee: lajungoding
 order: 10000
 createdAt: '2026-05-08T06:19:18.146Z'
-updatedAt: '2026-05-08T06:19:40.257Z'
+updatedAt: '2026-05-08T06:19:42.731Z'
 ---
 World
